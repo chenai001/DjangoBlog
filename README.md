@@ -1,15 +1,15 @@
 # DjangoBlog
 My first blog written with Django framework
 
-# Create Project "DjangoBlog"
+## Create Project "DjangoBlog"
 ----
-#python django-admin.py startproject DjangoBlog
+###python django-admin.py startproject DjangoBlog
 
-# Create app "blog"
+## Create app "blog"
 ----
-#python manage.py startapp blog
+###python manage.py startapp blog
 
-# Migrate Database
+## Migrate Database
 ----
-#python manage.py makemigrations
-#python manage.py migrate
+###python manage.py makemigrations
+###python manage.py migrate
